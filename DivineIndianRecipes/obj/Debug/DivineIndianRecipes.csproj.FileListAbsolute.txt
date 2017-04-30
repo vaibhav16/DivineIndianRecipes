@@ -1,0 +1,145 @@
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\DivineIndianRecipes.dll
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\DivineIndianRecipes.pdb
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\AppManifest.xaml
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\DivineIndianRecipes_Debug_AnyCPU.xap
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\App.g.cs
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\MainPage.g.cs
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\DivineIndianRecipes.g.resources
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\DivineIndianRecipes.Resources.AppResources.resources
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\DivineIndianRecipes.csproj.GenerateResource.Cache
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\DivineIndianRecipes.dll
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\DivineIndianRecipes.pdb
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\XapCacheFile.xml
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\vservWindowsPhone.dll
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\DivineIndianRecipes.csprojResolveAssemblyReference.cache
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\aboutus.g.cs
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\Microsoft.Expression.Interactions.dll
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\System.Windows.Interactivity.dll
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+c:\users\vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\veg.g.cs
+C:\Users\Vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\nonveg.g.cs
+C:\Users\Vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\nonvegpages\kofta.g.cs
+C:\Users\Vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\vegpages\aloo.g.cs
+C:\Users\Vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\vegpages\dal.g.cs
+C:\Users\Vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\vegpages\gobi.g.cs
+C:\Users\Vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\vegpages\palak.g.cs
+C:\Users\Vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\vegpages\paneer.g.cs
+C:\Users\Vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\vegpages\raita.g.cs
+C:\Users\Vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\nonvegpages\biryani.g.cs
+C:\Users\Vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\nonvegpages\chicken.g.cs
+C:\Users\Vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\nonvegpages\fish.g.cs
+C:\Users\Vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\nonvegpages\mutton.g.cs
+C:\Users\Vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\nonvegpages\naanchicken.g.cs
+C:\Users\Vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\watch.g.cs
+C:\Users\Vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\desserts.g.cs
+C:\Users\Vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\dessertpages\barfi.g.cs
+C:\Users\Vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\dessertpages\gajar.g.cs
+C:\Users\Vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\dessertpages\gulab.g.cs
+C:\Users\Vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\dessertpages\kaju.g.cs
+C:\Users\Vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\dessertpages\laddu.g.cs
+C:\Users\Vab\documents\visual studio 2013\Projects\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\dessertpages\rasg.g.cs
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\DivineIndianRecipes.dll.config
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\DivineIndianRecipes.dll
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\DivineIndianRecipes.pdb
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\AppManifest.xaml
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\DivineIndianRecipes_Debug_AnyCPU.xap
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\BugSense-WP8.dll
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\System.Net.Http.dll
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\vservWindowsPhone.dll
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\System.Net.Http.xml
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\DivineIndianRecipes.csprojResolveAssemblyReference.cache
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\App.g.cs
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\aboutus.g.cs
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\dessertpages\barfi.g.cs
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\dessertpages\gajar.g.cs
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\dessertpages\gulab.g.cs
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\dessertpages\kaju.g.cs
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\dessertpages\laddu.g.cs
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\dessertpages\rasg.g.cs
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\desserts.g.cs
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\MainPage.g.cs
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\nonveg.g.cs
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\nonvegpages\biryani.g.cs
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\nonvegpages\chicken.g.cs
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\nonvegpages\fish.g.cs
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\nonvegpages\kofta.g.cs
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\nonvegpages\mutton.g.cs
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\nonvegpages\naanchicken.g.cs
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\vegpages\aloo.g.cs
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\vegpages\dal.g.cs
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\vegpages\gobi.g.cs
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\vegpages\palak.g.cs
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\vegpages\paneer.g.cs
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\vegpages\raita.g.cs
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\veg.g.cs
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\watch.g.cs
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\DivineIndianRecipes.g.resources
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\DivineIndianRecipes.Resources.AppResources.resources
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\DivineIndianRecipes.csproj.GenerateResource.Cache
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\DivineIndianRecipes.dll
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\DivineIndianRecipes.pdb
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\obj\Debug\XapCacheFile.xml
+C:\Users\Vab\Documents\Visual Studio 2013\Projects\New folder\DivineIndianRecipes\DivineIndianRecipes\Bin\Debug\AdDuplex.WindowsPhone.dll

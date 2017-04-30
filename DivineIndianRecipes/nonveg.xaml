@@ -1,0 +1,108 @@
+﻿<phone:PhoneApplicationPage
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity" xmlns:ec="clr-namespace:Microsoft.Expression.Interactivity.Core;assembly=Microsoft.Expression.Interactions"
+    x:Class="DivineIndianRecipes.nonveg"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="False">
+
+    <!--LayoutRoot contains the root grid where all other page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Black">
+        <phone:Panorama Title="Non Vegetarian" Foreground="White">
+
+            <!--Panorama item one-->
+            <phone:PanoramaItem>
+                <Grid Margin="0,-120,0,0">
+                    <TextBlock Foreground="White" FontSize="25" HorizontalAlignment="Left" TextWrapping="Wrap" Text="Chicken" VerticalAlignment="Top" Margin="0,281,0,0" Width="180" Height="48"/>
+                    <TextBlock Foreground="White" FontSize="25" TextWrapping="Wrap" Text="Fish" Margin="0,547,234,80"/>
+                    <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="190" VerticalAlignment="Top" Width="190" Margin="-2,91,0,0">
+                        <i:Interaction.Triggers>
+                            <i:EventTrigger EventName="MouseLeftButtonDown">
+                                <ec:NavigateToPageAction TargetPage="/nonvegpages/chicken.xaml"/>
+                            </i:EventTrigger>
+                        </i:Interaction.Triggers>
+                        <Border.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="/Assets/nonveg/chicken.png"/>
+                        </Border.Background>
+                    </Border>
+                    <Border BorderBrush="Black" BorderThickness="1" Margin="-2,354,234,149">
+                        <i:Interaction.Triggers>
+                            <i:EventTrigger EventName="MouseLeftButtonDown">
+                                <ec:NavigateToPageAction TargetPage="/nonvegpages/fish.xaml"/>
+                            </i:EventTrigger>
+                        </i:Interaction.Triggers>
+                        <Border.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="/Assets/nonveg/fish.png"/>
+                        </Border.Background>
+                    </Border>
+                </Grid>
+            </phone:PanoramaItem>
+
+            <!--Panorama item two-->
+            <phone:PanoramaItem>
+                <Grid Margin="0,-34,0,0">
+                    <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="191" VerticalAlignment="Top" Width="190">
+                        <i:Interaction.Triggers>
+                            <i:EventTrigger EventName="MouseLeftButtonDown">
+                                <ec:NavigateToPageAction TargetPage="/nonvegpages/mutton.xaml"/>
+                            </i:EventTrigger>
+                        </i:Interaction.Triggers>
+                        <Border.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="/Assets/nonveg/mutton.png"/>
+                        </Border.Background>
+                    </Border>
+                    <Border BorderBrush="Black" BorderThickness="1" Margin="0,283,232,129">
+                        <i:Interaction.Triggers>
+                            <i:EventTrigger EventName="MouseLeftButtonDown">
+                                <ec:NavigateToPageAction TargetPage="/nonvegpages/biryani.xaml"/>
+                            </i:EventTrigger>
+                        </i:Interaction.Triggers>
+                        <Border.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="/Assets/nonveg/biryani.png"/>
+                        </Border.Background>
+                        <TextBlock Foreground="White" FontSize="25" TextWrapping="Wrap" Text="Biryani" Margin="0,190,0,-60"/>
+                    </Border>
+                    <TextBlock Foreground="White" FontSize="25" HorizontalAlignment="Left" TextWrapping="Wrap" Text="Mutton" VerticalAlignment="Top" Margin="0,196,0,0" Width="190" Height="42"/>
+
+                </Grid>
+            </phone:PanoramaItem>
+
+
+            <phone:PanoramaItem>
+                <Grid Margin="0,-15,4,0">
+                    <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="191" VerticalAlignment="Top" Width="190">
+                        <Border.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="/Assets/nonveg/kofta.png"/>
+                        </Border.Background>
+                        <i:Interaction.Triggers>
+                            <i:EventTrigger EventName="MouseLeftButtonDown">
+                                <ec:NavigateToPageAction TargetPage="/nonvegpages/kofta.xaml"/>
+                            </i:EventTrigger>
+                        </i:Interaction.Triggers>
+                    </Border>
+                    <Border BorderBrush="Black" BorderThickness="1" Margin="0,283,232,129">
+                        <i:Interaction.Triggers>
+                            <i:EventTrigger EventName="MouseLeftButtonDown">
+                                <ec:NavigateToPageAction TargetPage="/nonvegpages/naanchicken.xaml"/>
+                            </i:EventTrigger>
+                        </i:Interaction.Triggers>
+                        <Border.Background>
+                            <ImageBrush Stretch="Fill" ImageSource="/Assets/nonveg/naanchicken.png"/>
+                        </Border.Background>
+                        <TextBlock Foreground="White" FontSize="25" TextWrapping="Wrap" Text="Naan Chicken" Margin="-1,168,1,-38"/>
+                    </Border>
+                    <TextBlock Foreground="White" FontSize="25" HorizontalAlignment="Left" TextWrapping="Wrap" Text="Kofta" VerticalAlignment="Top" Margin="0,196,0,0" Width="190" Height="42"/>
+                </Grid>
+            </phone:PanoramaItem>
+        </phone:Panorama>
+    </Grid>
+
+</phone:PhoneApplicationPage>

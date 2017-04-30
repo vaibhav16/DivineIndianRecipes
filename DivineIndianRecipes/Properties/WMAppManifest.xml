@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
+  <DefaultLanguage xmlns="" code="en-US" />
+  <App xmlns="" ProductID="{0461cb58-df5c-44e2-8b54-1f3f2e83701e}" Title="Divine Indian Recipes" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="DivineIndianRecipes author" Description="Sample description" Publisher="Divine Indian Recipes" PublisherID="{9fa96eec-9d68-4da3-9e3b-54e24dfd0f99}">
+    <IconPath IsRelative="true" IsResource="false">ApplicationIcon.png</IconPath>
+    <Capabilities>
+      <Capability Name="ID_CAP_NETWORKING" />
+      <Capability Name="ID_CAP_MEDIALIB_AUDIO" />
+      <Capability Name="ID_CAP_MEDIALIB_PLAYBACK" />
+      <Capability Name="ID_CAP_SENSORS" />
+      <Capability Name="ID_CAP_WEBBROWSERCOMPONENT" />
+    </Capabilities>
+    <Tasks>
+      <DefaultTask Name="_default" NavigationPage="MainPage.xaml" />
+    </Tasks>
+    <Tokens>
+      <PrimaryToken TokenID="DivineIndianRecipesToken" TaskName="_default">
+        <TemplateCycle>
+          <SmallImageURI IsRelative="true" IsResource="false">gajaricon.png</SmallImageURI>
+          <Title>Indian Recipes</Title>
+          <Photo01ImageURI IsRelative="true" IsResource="false">video.png</Photo01ImageURI>
+          <Photo02ImageURI IsRelative="true" IsResource="false">paneer.png</Photo02ImageURI>
+          <Photo03ImageURI IsRelative="true" IsResource="false">chicken.png</Photo03ImageURI>
+          <Photo04ImageURI IsRelative="true" IsResource="false">naanchicken.png</Photo04ImageURI>
+          <Photo05ImageURI IsRelative="true" IsResource="false">biryani.png</Photo05ImageURI>
+          <Photo06ImageURI IsRelative="true" IsResource="false">meat.png</Photo06ImageURI>
+          <Photo07ImageURI IsRelative="true" IsResource="false">nonveg.png</Photo07ImageURI>
+          <Photo08ImageURI IsRelative="true" IsResource="false">gajar.png</Photo08ImageURI>
+          <Photo09ImageURI IsRelative="true" IsResource="false">kaju.png</Photo09ImageURI>
+          <Count>0</Count>
+          <HasLarge>True</HasLarge>
+          <DeviceLockImageURI IsRelative="true" IsResource="false">
+          </DeviceLockImageURI>
+        </TemplateCycle>
+      </PrimaryToken>
+    </Tokens>
+    <ScreenResolutions>
+      <ScreenResolution Name="ID_RESOLUTION_WVGA" />
+      <ScreenResolution Name="ID_RESOLUTION_WXGA" />
+      <ScreenResolution Name="ID_RESOLUTION_HD720P" />
+    </ScreenResolutions>
+  </App>
+</Deployment>
